@@ -1,4 +1,4 @@
-# gmv_optimizer
+# Gmv_optimizer
 
 ## Portfolio_Optimizer ```V 1.0 .```
 
