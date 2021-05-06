@@ -3,7 +3,7 @@
 ## Portfolio_Optimizer ```V 1.0 .```
 
 ### Summary
-**Description:** This optimizer was created as a test for optimzing portfolios in finance. It utilizes the global minimum variance (GMV) and historical data to makes its decision for the allocation of assets. Its aimed at reducing risk while maximising returns, with the assumption that one can only invests 100% of their money. 
+**Description:** This optimizer was designed for the optimization of financial portfolios. It uses the global minimum variance (GMV) and historical data to decide how assets are allocated. It aims to reduce risk and maximize returns, supposedly only 100% of your money can be invested.
 
 ### Possible Improvements
 This project can be further improved in the future through several ways, which are namely;
